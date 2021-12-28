@@ -8,6 +8,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "url": "https://github.com/Rudeus3Greyrat/satus.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
